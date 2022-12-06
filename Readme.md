@@ -15,17 +15,12 @@ Hacker Slides is a self hosted reveal.js presentations editor form markdown file
 - Live reload
 - Color schemes
 - Pdf print
-- [Demo version](https://murmuring-sierra-54081.herokuapp.com)
 - Tiny 10 Mb docker image
 - Optional Basic auth
 
 
-| Edit mode | Published  |
-| --- | --- |
-| ![1st](https://sc-cdn.scaleengine.net/i/520e2f4a8ca107b0263936507120027e.png) | ![1st](https://sc-cdn.scaleengine.net/i/7ae0d31a40b0b9e7acc3f131754874cf.png) |
-|![2nd](https://sc-cdn.scaleengine.net/i/5acba66070e24f76bc7f20224adc611e.png) | ![2nd](https://sc-cdn.scaleengine.net/i/fee3e1374cb13b1d8c292becb7f514ae.png) |
 
-This repo is a reworked version of Sandstorm Hacker Slides which features easy set up run outside of Sandstorm and without vagrant-spk. Likewise you can publish and edit your previous markdown slides which is not supported in the original version.
+This repo is a reworked version of Sandstorm Hacker Slides which features easy set up run outside of Sandstorm and without vagrant-spk. Likewise you can publish and edit your previous markdown slides which is not supported in the original version. This was forked from [https://github.com/msoedov/hacker-slides](msoedov/hacker-slides) 
 
 
 Run from docker image
